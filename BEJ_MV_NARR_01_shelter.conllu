@@ -554,7 +554,7 @@
 62	/	_	PUNCT	PUNCT	_	61	punct	_	GE= PUNCT|RX= PUNCT|Times= 101267, 102158
 63	baːji	_	ADP	POSTP	TokenType=Stem	65	comp:obl	_	Gloss= towards|RX= POSTP|Times= 102158, 102334
 64	=heːb	_	PRON	PRO	Number=Sing|Person=1|TokenType=Clit	65	aff:subj	_	GE= =OBJ,1SG|RX= =PRO|Times= 102334, 102511
-65	hiːreːr	_	VERB	V2	TokenType=Stem|VerbClass=2	67	comp	_	Gloss= walk|RX= V2|Times= 102511, 102687
+65	hiːreːr	_	VERB	V2	TokenType=Stem|VerbClass=2	67	comp:obj	_	Gloss= walk|RX= V2|Times= 102511, 102687
 66	-eː	_	SCONJ	CVB	VerbForm=Conv|TokenType=Aff	65	aff:mark	_	GE= -CVB,SMLT|Times= 102687, 102864
 67	rh	_	VERB	V2	TokenType=Stem|VerbClass=2	69	comp	_	Gloss= see|RX= V2|Times= 102864, 102981
 68	-an	_	PRON	TAM, PNG	Aspect=Pfv|Number=Sing|Person=1|TokenType=Aff	67	aff:subj	_	GE= -PFV,1SG|RX= -TAM,PNG|Times= 102981, 103099
